@@ -1,0 +1,9 @@
+{
+  "request": {
+    "method": "PUT",
+    "urlPathPattern": "/api/v1/VendorAgent/ConfirmOrder"
+  },
+  "response": {
+    "status": 200
+  }
+}
